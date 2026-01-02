@@ -59,6 +59,5 @@ DesktopBuddy consists of two main parts:
 
 ## 📥 Download
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/DesktopBuddy.git
+-(https://github.com/MANOX2004/Desktop-Buddy/raw/main/DesktopBuddySetup.exe)
+
