@@ -8,7 +8,7 @@ It places a cute animated character on top of the Windows taskbar, adding person
 
 ## ✨ Key Features
 
-- 🧍 Taskbar companion (Sitgirl / Sitboy)
+- 🧍 Taskbar companion (Sitgirl / Sitboy / Custom)
 - 🎨 Smooth modern UI (rounded corners, shadows)
 - 🎚 Adjustable character size
 - 🔒 Lock / Unlock character position
