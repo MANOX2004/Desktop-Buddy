@@ -59,5 +59,5 @@ DesktopBuddy consists of two main parts:
 
 ## 📥 Download
 
--(https://github.com/MANOX2004/Desktop-Buddy/raw/main/DesktopBuddySetup.exe)
+https://github.com/MANOX2004/Desktop-Buddy/raw/main/DesktopBuddySetup.exe
 
