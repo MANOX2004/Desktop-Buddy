@@ -19,15 +19,6 @@ It places a cute animated character on top of the Windows taskbar, adding person
 - 💾 Auto-save settings (Registry)
 - ✅ Automatic update checking
 
----
-
-## 📸 Preview
-
-> *(Add screenshots or GIF previews here)*  
-Recommended:
-
----
-
 ## 🖥️ Application Overview
 
 DesktopBuddy consists of two main parts:
