@@ -60,7 +60,7 @@ DesktopBuddy consists of two main parts:
 
 ---
 
-## 🚀 Getting Started
+## 📥 Download
 
 ### 1️⃣ Clone the repository
 ```bash
