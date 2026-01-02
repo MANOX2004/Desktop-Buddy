@@ -25,9 +25,6 @@ It places a cute animated character on top of the Windows taskbar, adding person
 
 > *(Add screenshots or GIF previews here)*  
 Recommended:
-- Main control window  
-- Character sitting on taskbar  
-- Tray icon menu  
 
 ---
 
