@@ -17,6 +17,7 @@ It places a cute animated character on top of the Windows taskbar, adding person
 - 🔔 System tray integration
 - 🚀 Start with Windows support
 - 💾 Auto-save settings (Registry)
+- ✅ Automatic update checking
 
 ---
 
